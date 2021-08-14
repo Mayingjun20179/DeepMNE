@@ -1,6 +1,5 @@
 # DeepMNE
-Code and data of DeepMNE algorithm
-DeepMNE: Deep Multi-network Embedding for lncRNA-Disease Association prediction
+The Code and data of "Deep Multi-network Embedding for lncRNA-Disease Association prediction"
 
 Data:
 
