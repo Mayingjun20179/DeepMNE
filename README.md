@@ -35,5 +35,5 @@ DNGR： Reference from “S. Cao, W. Lu, and Q. Xu, “Deep neural networks for 
 
 mainZ：The main function of DeepMNE
 
-Import all the codes into the matlab path, run mainZ, the results of DeepMNE in Table 1 and Table 2 can be automatically calculated
+Import all the codes into the matlab path, run mainZ, the results of DeepMNE in Table 1 and Table 2 can be automatically calculated.
 
