@@ -26,8 +26,9 @@ lnc_dis_inf2019.lnc_inf.exp_fea: The expression profile feature of lncRNA
 lnc_dis_inf2019.lnc_inf.pc_fea: The PC-PseDNC features of the lncRNA 
 
 Code：
+xiuzheng_Y:Calculation of weighted K nearest Neighbor Profiles (WKNNP)
 
-DeepMNE：DeepMNE's five-fold cross-validation code
+KSNS_opt: Compute kernel neighborhood similarity.
 
 DNGR： Reference from “S. Cao, W. Lu, and Q. Xu, “Deep neural networks for learning graph representations,” in Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16), 2016, pp. 1145-1152.”
 
