@@ -26,6 +26,7 @@ lnc_dis_inf2019.lnc_inf.exp_fea: The expression profile feature of lncRNA
 lnc_dis_inf2019.lnc_inf.pc_fea: The PC-PseDNC features of the lncRNA 
 
 Code：
+
 xiuzheng_Y:Calculation of weighted K nearest Neighbor Profiles (WKNNP)
 
 KSNS_opt: Compute kernel neighborhood similarity.
