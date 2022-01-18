@@ -37,3 +37,11 @@ mainZ：The main function of DeepMNE
 
 Import all the codes into the matlab path, run mainZ, the results of DeepMNE in Table 1 and Table 2 can be automatically calculated.
 
+GRGMF.zip: Reference from "Z. C. Zhang, X. F. Zhang, M. Wu, L. Ou-Yang, X. M. Zhao, and X. L. Li, “A graph regularized generalized matrix factorization model for predicting links in biomedical bipartite networks,” Bioinformatics, vol. 36, no. 11, pp. 3474-3481, Jun 1, 2020."
+
+LDGRNMF.zip: Reference from "G. Li, J. Luo, C. Liang, Q. Xiao, P. Ding, and Y. Zhang, “Prediction of lncRNA-disease associations based on network consistency projection,” IEEE Access, vol. 7, pp. 58849-58856, 2019."
+
+LDA-LNSUBRW.zip: Reference from "G. Xie, J. Jiang, and Y. Sun, “LDA-LNSUBRW: lncRNA-disease association prediction based on linear neighborhood similarity and unbalanced bi-random walk,” IEEE/ACM Trans Comput Biol Bioinform, vol. PP, Sep 1, 2020."
+
+NCPLDA.zip: Reference from "G. Li, J. Luo, C. Liang, Q. Xiao, P. Ding, and Y. Zhang, “Prediction of lncRNA-disease associations based on network consistency projection,” IEEE Access, vol. 7, pp. 58849-58856, 2019."
+
